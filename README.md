@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="./w2htorius.png" alt="W2HTORIUS.DEV" width="300">
+  <img src="./envaltorius.png" alt="W2HTORIUS.DEV" width="300">
 </p>
 
-<h1 align="center">W2HTORIUS.DEV</h1>
+<h1 align="center">Envaltorius.dev</h1>
 
 <p align="center">
   <b>Analtorius Client — Cracked Edition</b>
