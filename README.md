@@ -6,7 +6,7 @@
 <h1 align="center">W2HTORIUS.DEV</h1>
 
 <p align="center">
-  <b>Anatorius Client — Cracked Edition</b>
+  <b>Analtorius Client — Cracked Edition</b>
 </p>
 
 
@@ -25,7 +25,7 @@
 ## Have fun with your free $20 cheat
 ### Main Cracker
 
-**enval** — Cracked the entire Anatorius Client.
+**enval** — Cracked the entire Analtorius Client.
 
 ### Credits
 
