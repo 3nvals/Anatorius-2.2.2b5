@@ -1,4 +1,8 @@
-![W2HTORIUS.DEV](./w2htorius.png)
+<p align="center">
+  <img src="./w2htorius.png" alt="W2HTORIUS.DEV" width="350">
+</p>
+
+<h1 align="center">W2HTORIUS.DEV</h1>
 
 # W2HTORIUS.DEV
 
