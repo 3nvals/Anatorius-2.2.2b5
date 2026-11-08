@@ -1,4 +1,4 @@
-![W2HTORIUS.DEV](./w2htorius.dev.png)
+![W2HTORIUS.DEV](./w2htorius.png)
 
 # W2HTORIUS.DEV
 
