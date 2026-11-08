@@ -29,7 +29,7 @@
 
 ### Credits
 
-- **quadraa_** — Special Thanks
+- **quadraa_** — Thanks for account
 - **t3alax** — Special Thanks
 
 ---
