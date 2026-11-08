@@ -9,11 +9,17 @@
   <b>Anatorius Client — Cracked Edition</b>
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/3nvals/Anatorius-2.2.2b5/releases">
-    <img src="https://img.shields.io/badge/DOWNLOAD-0057B7?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  <a href="https://github.com/3nvals/Anatorius-2.2.2b5/releases/latest">
+    <img
+      src="https://img.shields.io/badge/⬇_DOWNLOAD_LATEST_RELEASE-0057B7?style=for-the-badge&labelColor=101827"
+      alt="Download Latest Release"
+      height="42"
+    >
   </a>
 </p>
+
 
 ---
 
