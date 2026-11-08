@@ -4,7 +4,7 @@
 
 <h1 align="center">W2HTORIUS.DEV</h1>
 
-# W2HTORIUS.DEV
+# Analtorius.dev
 
 **Anatorius Client — Cracked Edition**
 
